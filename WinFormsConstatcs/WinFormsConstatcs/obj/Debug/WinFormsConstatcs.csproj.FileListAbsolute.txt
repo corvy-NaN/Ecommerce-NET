@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\bin\Debug\WinFormsConstatcs.exe.config
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\bin\Debug\WinFormsConstatcs.exe
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\bin\Debug\WinFormsConstatcs.pdb
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.ContactDetails.resources
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.Main.resources
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.Properties.Resources.resources
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.exe
+C:\Users\Administrador\source\repos\WinFormsConstatcs\WinFormsConstatcs\obj\Debug\WinFormsConstatcs.pdb
