@@ -1,0 +1,12 @@
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll

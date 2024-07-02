@@ -1,0 +1,16 @@
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.deps.json
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.pdb
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.AssemblyInfo.cs
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.sourcelink.json
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\refint\Ecommerce.Repository.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.pdb
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\ref\Ecommerce.Repository.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Model.dll
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Model.pdb
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.csproj.CopyComplete
