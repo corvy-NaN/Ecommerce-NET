@@ -128,7 +128,7 @@ namespace Ecommerce.Service.Implementation
             try
             {
                 var consult = _modelRepository.Consult(p =>
-                string.Concat(p.NameCategory.ToLower()).Contains(search.ToLower())
+                p.NameCategory!.ToLower().Contains(search.ToLower())
                 );
 
                 List<CategoryDTO> list = _mapper.Map<List<CategoryDTO>>(await consult.ToListAsync());

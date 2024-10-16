@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "Ecommerce.WebAssembly",
   "resources": {
-    "hash": "sha256-tm8dssY40CmVPS+ntQ5NlRusG29QIqO7Z1zkrMMDQfg=",
+    "hash": "sha256-hBINILpQ1asLHpLWjmFsqBmSX2YmBgQuu8YHvkM39YY=",
     "jsModuleNative": {
-      "dotnet.native.8.0.1.fy2li2hg1q.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
+      "dotnet.native.8.0.5.bpgb9309ii.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.1.i5n3vk7duq.js": "sha256-HZOoaGpz9ekMa/oSmeApSKp3DXNdVUq2UBqsTIIiN8A="
+      "dotnet.runtime.8.0.5.26arc2h4q0.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-dqpunZywlYy86b4O6ZjONasmG+4FH0P17FZ0OIf/lIg="
+      "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -208,10 +208,12 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "Ecommerce.WebAssembly.wasm": "sha256-1ImtzMdf4iZw29YD3M2kRmebRxrGtF3OBdA4qYk6a4c="
+      "Ecommerce.DTO.wasm": "sha256-lZE5vSG2f/Q8VG5cUFvpIy5eztuJnmLoblQTU/SaDCM=",
+      "Ecommerce.WebAssembly.wasm": "sha256-y12+dNX/pmYO28if+roPQqkW86tkcodZhO7n+FUbBXI="
     },
     "pdb": {
-      "Ecommerce.WebAssembly.pdb": "sha256-X3QXQWsuHRmmD5wZkMTs5cAYXZ+Al09M+JggXeC1NUI="
+      "Ecommerce.DTO.pdb": "sha256-WE0WsXiKDow0nPtkh5rJ/K89t87gy18aSt9f4A1QvQg=",
+      "Ecommerce.WebAssembly.pdb": "sha256-N7gU8Z78UoxATGIs3MhbXkVwkyzL4n2dpFvWNrXj3ic="
     }
   },
   "cacheBootResources": true,

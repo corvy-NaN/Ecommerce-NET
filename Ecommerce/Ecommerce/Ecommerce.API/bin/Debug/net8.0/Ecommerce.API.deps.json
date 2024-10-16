@@ -646,7 +646,8 @@
           "Ecommerce.DTO": "1.0.0",
           "Ecommerce.Model": "1.0.0",
           "Ecommerce.Repository": "1.0.0",
-          "Ecommerce.Utility": "1.0.0"
+          "Ecommerce.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
         },
         "runtime": {
           "Ecommerce.Service.dll": {}

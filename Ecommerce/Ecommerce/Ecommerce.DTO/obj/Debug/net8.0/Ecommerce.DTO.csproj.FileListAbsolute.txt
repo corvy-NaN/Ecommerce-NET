@@ -10,3 +10,15 @@ C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.d
 C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\ProyectGIT\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+D:\Corvy\Proyect\WIP\Ecommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
